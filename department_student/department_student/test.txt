@@ -1,0 +1,20 @@
+{
+    "author": "tashaxing",
+    "number": [
+        0,
+        1,
+        2
+    ],
+    "language": {
+        "language1": "C++",
+        "language2": "java"
+    },
+    "information": [
+        {
+            "hobby": "drawing"
+        },
+        {
+            "height": 1.71
+        }
+    ]
+}
