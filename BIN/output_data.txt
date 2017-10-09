@@ -1,0 +1,86 @@
+{
+    "unlucky_student": [],
+    "admitted": [
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        },
+        {
+            "admitted": [],
+            "department_no": ""
+        }
+    ],
+    "unlucky_department": []
+}
